@@ -31,8 +31,9 @@ undefined
 
 ## Contact
 [GitHub Profile]({https://github.com/garysk94)
+
 [Email Me](garysk94@gmail.com)
-}}
+
 
 Here is a video that shows how you can create a README.md file inside terminal using Node.
 
